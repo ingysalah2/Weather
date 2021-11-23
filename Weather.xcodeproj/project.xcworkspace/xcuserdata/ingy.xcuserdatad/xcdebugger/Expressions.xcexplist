@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #2 in CountriesApi.getCountries():CountriesApi.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Http.makeNewRequest(req:completion:failure:):Http.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CurrentWeather.getWeatherIconUrl():CurrentWeather.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weatherIconUrl[0][&quot;value&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CitiesTableViewController.onDoneButtonClick(_:):CitiesTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "presentingViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CitiesTableViewController.handleExpandClose(button:):CitiesTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CountriesApi.getCountries():CountriesApi.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
